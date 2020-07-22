@@ -1,0 +1,30 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.*",
+    "formsy-react": "^1.1.5",
+    "jquery": "^3.3.1",
+    "react": "^16.7.0",
+    "react-aria-modal": "^3.0.1",
+    "react-dom": "^16.7.0",
+    "react-form-validator-core": "^0.5.1",
+    "react-select": "^2.3.0",
+    "react-validation": "^3.0.7",
+    "redux": "4.0.1"
+  },
+  "devDependencies": {
+    "ajax-request": "^1.2.3",
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
